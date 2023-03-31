@@ -2,7 +2,7 @@
 Zadania *SQL w 120 min*
 
 ```SQL
-/* Zadania SQL w 120 min - https://www.kursysql.pl/sql-w-120-minut/zadania/ */
+/* Zadania SQL w 120 min - https://www.kursysql.pl/szkolenie-sql-w-120-minut/ */
 /* AdventureWorks sample databases - https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms */
 
 
