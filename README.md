@@ -13,7 +13,7 @@ USE AdventureWorks2014
 SELECT [Production].[Product].[Name]
 FROM [Production].[Product]
 WHERE [Production].[Product].[Color] = 'BLACK'
-ORDER BY [Production].[Product].[ListPrice];
+ORDER BY [Production].[Product].[ListPrice] DESC;
 
 
 /* Zad. 2. Wyswietl wszystkie produkty koloru czerwonego i niebieskiego, ktorych nazwa zaczyna sie na 'L', posortowane wg rozmiaru malejaco i ceny rosnaco. */
